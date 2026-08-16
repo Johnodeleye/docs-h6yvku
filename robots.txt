@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-gpgvu4.trans88.biz/sitemap.xml
